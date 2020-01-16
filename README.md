@@ -1,3 +1,7 @@
-A an app that detects faces and increases your score each time you submit a picture.
+A an app that detects faces in images.
 
-Go here to visit the site... https://face-seeker.herokuapp.com/  ..
+
+Go [here](https://face-seeker.herokuapp.com) to visit the site.
+
+
+![Main Page](https://octodex.github.com/images/yaktocat.png)
