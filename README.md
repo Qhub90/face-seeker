@@ -1,7 +1,8 @@
 # Face Seeker!!
-A an app that detects faces in images.
 
-## Just provide a link to the form!
+An app that detects faces in images.
+
+Just provide a link to the form!
 
 Go [here](https://face-seeker.herokuapp.com) to visit the site.
 
